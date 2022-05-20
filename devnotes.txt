@@ -1,0 +1,3 @@
+// getUsermedia api wrapper
+https://cdn.jsdelivr.net/npm/getusermedia@2.0.1/
+

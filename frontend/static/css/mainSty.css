@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  user-select: none;
+}
+
+body {
+  background-color: black;
+}
+
+.asC-container {
+  display: block;
+  background-color: black;
+  color: lime;
+  margin: 5em;
+  font-size: 15px;
+  font-family: Consolas,monaco,monospace; 
+  line-height: 10px;
+  letter-spacing: .12em;
+}
+
+.feed-control {
+    /* font-family: Consolas,monaco,monospace;  */
+    background-color: black;
+    color: lime;
+    border-color: lime;
+}
