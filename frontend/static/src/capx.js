@@ -34,7 +34,7 @@
 </svg>`
   }
 
-  const FPS = 140 // 20 framesper second
+  const FPS = 60 // 60 framesper second
 
   socket.on('connect', () => {
     $('#feed-tog-cam').attr('disabled', '')
